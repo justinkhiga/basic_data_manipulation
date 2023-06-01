@@ -27,7 +27,6 @@ data(mpg)
 
 #also load additional package for later
 library(psych)
-library(expss)
 
 #let's examine the data
 head(mpg)
