@@ -1,5 +1,6 @@
 # basic_data_manipulation
-THis is a portfolio project demonstrating some basic data manipulation/summarization and visualization.
+This is a portfolio project demonstrating some basic data manipulation/summarization and visualization.
+The project utilizes the "mpg" dataset available from the ggplot2 package in R.
 
 I have also included some statistical descriptives, which can further be 
 utilized for regression analysis.
